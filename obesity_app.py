@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/11Fxf--X8c9rsN48bR9LMieq0WJSIjlj7
 """
 
-!pip install streamlit
+
 !pip install pyngrok
 
 import streamlit as st
