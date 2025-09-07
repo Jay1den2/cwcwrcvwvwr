@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-!pip install pyngrok
 
 import streamlit as st
 import joblib
